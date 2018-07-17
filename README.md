@@ -7,5 +7,6 @@ Command:
 > python puzzle.py YourName
 
 Answer the questions, (yes or no)
+
 You will find an interesting thing to help you feel better in this tough world.
 
